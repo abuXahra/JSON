@@ -1,0 +1,95 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "Fullname": "Yusuf Abdulazeez",
+      "phone": "0815547836",
+      "email": "yabdul@gmail.com",
+      "salary": "140000"
+    },
+    {
+      "id": 2,
+      "Fullname": "Yusuf Abdulazeez",
+      "phone": "0815547836",
+      "email": "yabdul@gmail.com",
+      "salary": "140000"
+    },
+    {
+      "id": 3,
+      "Fullname": "Okoli Abdulazeez",
+      "phone": "0815547886",
+      "email": "okoli@gmail.com",
+      "salary": "110000"
+    },
+    {
+      "id": 4,
+      "Fullname": "Iusuf Abduorahman",
+      "phone": "0815549836",
+      "email": "yabdul@gmail.com",
+      "salary": "140000"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 9,
+      "Fullname": "Iusuf Abdurrahman",
+      "phone": "0815547836",
+      "email": "yabdul@gmail.com",
+      "salary": "140000"
+    },
+    {
+      "Fullname": "Iusuf Abduorahman",
+      "phone": "0815549836",
+      "email": "yabdul@gmail.com",
+      "salary": "140000",
+      "id": 10
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 5,
+      "Fullname": "Yusuf Abdulazeez",
+      "phone": "0815547836",
+      "email": "yabdul@gmail.com",
+      "salary": "140000"
+    }
+  ],
+  "people": [
+    {
+      "name": "Tom",
+      "favouriteNumber": 8,
+      "isProgramming": true,
+      "hobbies": [
+        "coding",
+        "reading",
+        "researching"
+      ],
+      "friends": [
+        {
+          "name": "joseph",
+          "favouriteNumber": 20,
+          "isProgramming": false
+        }
+      ]
+    },
+    {
+      "name": "Lawrence",
+      "favouriteNumber": 4,
+      "isProgramming": true,
+      "hobbies": [
+        "Writing",
+        "reading",
+        "traveling"
+      ],
+      "friends": [
+        {
+          "name": "Micheal",
+          "favouriteNumber": 20,
+          "isProgramming": true
+        }
+      ]
+    }
+  ]
+}
